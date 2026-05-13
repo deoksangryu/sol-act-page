@@ -1,0 +1,18 @@
+# 모든 크롤러 허용
+User-agent: *
+Allow: /
+
+# 네이버 검색 크롤러
+User-agent: Yeti
+Allow: /
+
+# 구글 검색 크롤러
+User-agent: Googlebot
+Allow: /
+
+# 다음/카카오 검색 크롤러
+User-agent: Daum
+Allow: /
+
+# 사이트맵 위치
+Sitemap: https://sol-act.com/sitemap.xml
