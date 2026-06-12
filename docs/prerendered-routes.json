@@ -1,9 +1,12 @@
 {
   "routes": {
     "/": {},
+    "/admissions": {},
+    "/contact": {},
     "/curriculum": {},
     "/facilities": {},
     "/instructors": {},
-    "/reviews": {}
+    "/reviews": {},
+    "/schedule": {}
   }
 }
